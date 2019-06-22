@@ -1,0 +1,3 @@
+(1)Notice: for split-void-groupgrid.py, Nmean=3000 for rs=1.5 need to be changed 
+(2)split-void-groupgrid.py are firstly run to find group ldps in w1-4;
+   changeflag-4w-groupgrid.py are secondly run to change flag totally for w1-4

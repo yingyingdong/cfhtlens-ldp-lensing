@@ -1,0 +1,26 @@
+/home/dfy/data/CFHTLens/split-point/4w-goodpoint.dat
+nobj = 16986473 
+number of good data is 3888541 
+xmax = 335.709717 ,xmin = 30.178211 ,ymax = 57.803654 ,ymin = -11.246086 ,zmax = 7.000000 
+data is load,zmax = 7.000000 
+xmax:-335.809717 -30.078211 ,ymax:-11.346086 57.903654 ,zmax:7.000000
+creating linked list...
+finished linklist
+ll is done
+gstep[0]=0.05,gstep[1]=0.05
+nobj = 4820759 
+0,841432,840745
+1,841432,840745
+2,841432,840745
+3,841432,840745
+4,841432,840745
+5,841432,840745
+6,841432,840745
+7,841432,840745
+8,841432,840745
+9,841432,840745
+0 160691 321382 482073 642764 803455 964146 1124837 1285528 1446219 1606910 1767601 1928292 2088983 2249674 2410365 2571056 2731747 2892438 3053129 3213820 3374511 3535202 3695893 3856584 4017275 4177966 4338657 4499348 4660039 4820759 ngroup=4820759
+nfield=1
+end 
+filename:data-2017/onetime-pz/4field-ww-1-void_mag-21_zmean0.45-rcut1-nbin1-zstep0.2-step0.006139-20-20-shear-cali2-xy-COMcra-0.58-2.5-wt-pz0.2omp-iboot0-randomxy-goodpoint.dat
+filename:data-2017/onetime-pz/4field-ww-1-void_mag-21_zmean0.45-rcut1-nbin1-zstep0.2-step0.006139-20-20-shear-cali2-xy-COMcra-0.58-2.5-wt-pz0.2omp-iboot1-randomxy-goodpoint.dat

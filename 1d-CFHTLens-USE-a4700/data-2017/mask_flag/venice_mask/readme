@@ -1,0 +1,4 @@
+(1)reverse.py    : transfer the reg2.fits to the right form for venice
+(2)group_mask.py : load mask position, transfer to xy, and save
+(3)run_venice.sh : use venice to mask
+(4)generate_mask_ima.py: generate the mask_flag for the c pro
